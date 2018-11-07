@@ -21,5 +21,5 @@
 
 	CTRL+; - show/hide grid
 	CTRL+' - show/hide padding fill
-	CTRL+[ - color/grayscale grid
+	CTRL+[ - grayscale/color grid
 	CTRL+] - show/hide num of cols
