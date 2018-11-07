@@ -16,6 +16,9 @@
 
 	bootstrapVersion - version of Bootstrap 3 or 4 (default 4)
 
+# Use
+
+	For enable Visual Bootstrap grid move the cursor to the upper right corner and select "Grid" checkbox. Or use hotKeys:
 	
 # HotKeys
 
