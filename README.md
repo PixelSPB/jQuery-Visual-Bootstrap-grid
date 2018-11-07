@@ -18,7 +18,8 @@
 
 # Use
 
-	For enable Visual Bootstrap grid move the cursor to the upper right corner and select "Grid" checkbox. Or use hotKeys:
+	For enable Visual Bootstrap grid move the cursor to the upper right corner and select "Grid" checkbox.
+	Or use hotKeys:
 	
 # HotKeys
 
