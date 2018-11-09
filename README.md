@@ -4,7 +4,9 @@
 
 ![jQuery Visual Bootstrap grid](http://andrey.kubakh.ru/sites/default/files/styles/simplecrop_aspectratio/public/visual-bootstrap-grid_0.jpg)
 
-[Video demonstration](https://www.youtube.com/watch?v=YptWol1mQN0) of the script working
+[Video demonstration](https://www.youtube.com/watch?v=YptWol1mQN0) on YouTube of the script working
+
+[Script work](https://codepen.io/PixelSPB/pen/dQMMEp) on the CodePen
 
 	
 # Installation
