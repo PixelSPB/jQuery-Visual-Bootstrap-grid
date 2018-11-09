@@ -26,15 +26,16 @@ Insert this code after the connected jQuery
 
 # Use
 
-For enable Visual Bootstrap grid move the cursor to the upper right corner and select "Grid" checkbox.
+For enable Visual Bootstrap grid move the cursor to the upper right corner and select "Grid" checkbox. Or use hotKeys.
 
 ![Show/Hide Bootstrap grid](http://kubakh.ru/use_vbgp.gif)
-
-Or use hotKeys:
 	
 # HotKeys
 
-	CTRL+; - show/hide grid
-	CTRL+' - show/hide padding fill
-	CTRL+[ - grayscale/color grid
-	CTRL+] - show/hide num of cols
+**CTRL+;** - show/hide grid
+
+**CTRL+'** - show/hide padding fill
+
+**CTRL+[** - grayscale/color grid
+
+**CTRL+]** - show/hide num of cols
