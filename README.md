@@ -1,8 +1,10 @@
 # jQuery Visual Bootstrap grid
 
-	**Visualise your Bootstrap grid**
+**Visualise your Bootstrap grid**
 
-	[Video demonstration](https://www.youtube.com/watch?v=YptWol1mQN0) of the script working
+![Иллюстрация к проекту](http://andrey.kubakh.ru/sites/default/files/styles/simplecrop_aspectratio/public/visual-bootstrap-grid_0.jpg)
+
+[Video demonstration](https://www.youtube.com/watch?v=YptWol1mQN0) of the script working
 
 	
 # Installation
