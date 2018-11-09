@@ -2,7 +2,7 @@
 
 **Visualise your Bootstrap (version 3 or 4) grid**
 
-![Иллюстрация к проекту](http://andrey.kubakh.ru/sites/default/files/styles/simplecrop_aspectratio/public/visual-bootstrap-grid_0.jpg)
+![jQuery Visual Bootstrap grid](http://andrey.kubakh.ru/sites/default/files/styles/simplecrop_aspectratio/public/visual-bootstrap-grid_0.jpg)
 
 [Video demonstration](https://www.youtube.com/watch?v=YptWol1mQN0) of the script working
 
@@ -23,6 +23,9 @@ Insert this code after the connected jQuery
 # Use
 
 For enable Visual Bootstrap grid move the cursor to the upper right corner and select "Grid" checkbox.
+
+![Show/Hide Bootstrap grid](http://kubakh.ru/use_vbgp.gif)
+
 Or use hotKeys:
 	
 # HotKeys
