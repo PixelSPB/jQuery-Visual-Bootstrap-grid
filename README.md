@@ -1,6 +1,6 @@
 # jQuery Visual Bootstrap grid
 
-**Visualise your Bootstrap grid**
+**Visualise your Bootstrap (version 3 or 4) grid**
 
 ![Иллюстрация к проекту](http://andrey.kubakh.ru/sites/default/files/styles/simplecrop_aspectratio/public/visual-bootstrap-grid_0.jpg)
 
