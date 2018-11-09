@@ -14,17 +14,15 @@
 Insert this code after the connected jQuery
 
 ```html
-    <script src="path-to-file/jQuery.vbgp.js"></script>
+<script src="path-to-file/jQuery.vbgp.js"></script>
 ```
 
 	
 # Settings
 	
-```
 **numCols** - number of columns in your theme (default 12)
 
 **bootstrapVersion** - version of Bootstrap 3 or 4 (default 4)
-```
 
 # Use
 
