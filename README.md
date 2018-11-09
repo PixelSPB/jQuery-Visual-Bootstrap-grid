@@ -1,6 +1,8 @@
 # jQuery Visual Bootstrap grid
 
-	Video demonstration of the script working https://www.youtube.com/watch?v=YptWol1mQN0
+	**Visualise your Bootstrap grid**
+
+	[Video demonstration](https://www.youtube.com/watch?v=YptWol1mQN0) of the script working
 
 	
 # Installation
